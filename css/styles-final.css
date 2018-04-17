@@ -1,6 +1,4 @@
-/*
- CSS variables
-*/
+/* CSS variables */
 
 :root {
   --black: #333333;
@@ -32,24 +30,15 @@ ul {
     padding: 0;
 }
 
-/* The LoVe F🙊 HAte rule for styling links */
-a:link {
+/* Styling links */
+a {
     color: var(--red);
     text-decoration: none;
 }
 
-a:visited {
-    color: var(--red);
-}
-
-a:focus, a:hover {
+a:hover {
     text-decoration: underline;
 }
-
-a:active {
-    text-decoration: underline;
-}
-
 
 /* Mobile-first styles */
 
@@ -73,23 +62,27 @@ footer {
 }
 
 footer ul {
-    text-align: center;
     max-width: 700px;
     margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
 }
 
-/* display: inline-block */
+/*
+This is another way with inline-block and pseudo selectors
 
 footer li {
     display: inline-block;
     margin-right: 20px;
 }
 
-/* Pseudo-selectors */
 
 footer li:last-child {
     margin-right: 0;
 }
+
+*/
+
 
 /* Media queries + mobile first */
 
@@ -112,7 +105,7 @@ footer li:last-child {
     .gallery img {
         margin-bottom: 0;
     }
-    
+
     .gallery .item2 {
         grid-column: span 2;
         grid-row: span 2;
@@ -124,7 +117,7 @@ footer li:last-child {
 
 }
 
-@media screen and (min-width: 900px) {
+@media screen and (min-width: 1000px) {
 
     header {
         padding: 160px 20px;
@@ -133,7 +126,6 @@ footer li:last-child {
     footer {
         padding: 100px 20px;
     }
-
 
     .gallery {
         grid-template-columns: repeat(5, 1fr);
