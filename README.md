@@ -21,9 +21,7 @@
 * [Visual guide to CSS](https://cssreference.io/)
 * [CSS Tricks](https://css-tricks.com/guides/beginner/)
 * [CSS colors](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
-
 * [Can I use](https://caniuse.com/)
-
 * [Flexbox Froggy](http://flexboxfroggy.com/#es)
 * [CSS Grid Garden](http://cssgridgarden.com/#es)
 * [The experimental Layout Lab of Jen Simmons](http://labs.jensimmons.com/)
