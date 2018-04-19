@@ -18,6 +18,7 @@
 ## CSS
 
 * [CSS tutorial](http://htmldog.com/guides/css/)
+* [CSS visual reference](https://tympanus.net/codrops/css_reference/)
 * [Visual guide to CSS](https://cssreference.io/)
 * [CSS Tricks](https://css-tricks.com/guides/beginner/)
 * [CSS colors](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
