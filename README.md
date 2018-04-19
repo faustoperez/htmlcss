@@ -13,6 +13,7 @@
 * [Elementos básicos HTML](https://developer.mozilla.org/es/docs/Web/HTML/Elemento)
 * [Introducción a HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML)
 * [HTML tutorial](http://htmldog.com/guides/html/)
+* [HTML 5](https://developer.mozilla.org/es/docs/HTML/HTML5)
 * [HTML 5.2 W3C Recommendation](https://www.w3.org/TR/html/)
 
 ## CSS
