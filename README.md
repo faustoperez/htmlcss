@@ -7,6 +7,7 @@
 * [Space Jam](https://www.warnerbros.com/archive/spacejam/movie/jam.htm)
 * [Do websites need to look exactly the same in every browser?](http://dowebsitesneedtolookexactlythesameineverybrowser.com/)
 * [Responsive web design](https://alistapart.com/article/responsive-web-design)
+* [Mobile first](https://www.lukew.com/ff/entry.asp?933)
 
 ## HTML
 
