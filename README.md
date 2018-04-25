@@ -24,6 +24,7 @@
 * [Visual guide to CSS](https://cssreference.io/)
 * [CSS Tricks](https://css-tricks.com/guides/beginner/)
 * [CSS colors](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
+* [Modular scale](http://www.modularscale.com/)
 * [Can I use](https://caniuse.com/)
 * [Flexbox Froggy](http://flexboxfroggy.com/#es)
 * [CSS Grid Garden](http://cssgridgarden.com/#es)
