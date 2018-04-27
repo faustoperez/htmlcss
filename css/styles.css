@@ -42,7 +42,8 @@ a:hover {
 
 img {
   display: block;
-  width: 100%;
+  width: 130%;
+  margin: 40px -15%;
 }
 
 
@@ -52,11 +53,6 @@ header, .detail {
     padding: 100px 20px;
     max-width: 700px;
     margin: 0 auto;
-}
-
-.detail img {
-  width: 130%;
-  margin: 60px -15%;
 }
 
 footer {
@@ -90,8 +86,6 @@ footer li:last-child {
 
 @media screen and (min-width: 600px) {
 
-    /* CSS grid */
-
     .gallery {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
@@ -101,19 +95,10 @@ footer li:last-child {
     }
 
     .gallery img {
-        margin-bottom: 0;
+        width: 100%;
+        margin: 0;
         object-fit: cover;
         object-position: center;
-        margin-bottom: 10px;
-    }
-
-    .detail img {
-      width: 160%;
-      margin: 100px -30%;
-    }
-
-    .detail p:last-child img {
-      margin-bottom: 0;
     }
 
     .gallery .item2 {
@@ -123,6 +108,15 @@ footer li:last-child {
 
     .gallery .item6 {
         grid-row: span 2;
+    }
+
+    .detail img {
+      width: 160%;
+      margin: 100px -30%;
+    }
+
+    .detail p:last-child img {
+      margin-bottom: 0;
     }
 
 }
